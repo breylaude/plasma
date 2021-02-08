@@ -1,5 +1,5 @@
-# Plasma
-A Monte-Carlo (particle-in-cell) method for a Vlasov-Poisson equation arising in plasma physics
+# Gamma Globulin
+Method for a Vlasov-Poisson equation arising in plasma physics
 
 This repository consists of code that I wrote for [this class](https://www-m16.ma.tum.de/Allgemeines/MonteCarloMeth). Further details on the relevant algorithms and mathematical background can be found by following the link.
 
