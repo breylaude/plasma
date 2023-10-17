@@ -1,3 +1,4 @@
+[![CI](https://github.com/breylaude/plasma/actions/workflows/blank.yml/badge.svg)](https://github.com/breylaude/plasma/actions/workflows/blank.yml)
 # Plasma
 Method for a Vlasov-Poisson equation arising in plasma physics
 
